@@ -2,14 +2,6 @@
 
 osu!lazer前提のスキンです。
 
-## ダウンロード
-
-| クリック音 | 黄色カーソル | 赤色カーソル |
-|---|---|---|
-| A | [nakano v2026](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026.osk) | [nakano v2026 red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026.red.osk) |
-| B | [nakano v2026B](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026B.osk) | [nakano v2026B red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026B.red.osk) |
-| C | [nakano v2026C](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026C.osk) | [nakano v2026C red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026C.red.osk) |
-
 ## バリエーション
 
 * **A / B / C**  
@@ -24,17 +16,18 @@ osu!lazer前提のスキンです。
 ## 動画
 https://github.com/user-attachments/assets/5bcb9e38-a3ee-432f-a680-65ca49762bb3
 
+## ダウンロード
+
+| クリック音 | 黄色カーソル | 赤色カーソル |
+|---|---|---|
+| A | [nakano v2026](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026.osk) | [nakano v2026 red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026.red.osk) |
+| B | [nakano v2026B](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026B.osk) | [nakano v2026B red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026B.red.osk) |
+| C | [nakano v2026C](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026C.osk) | [nakano v2026C red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2026C.red.osk) |
+
 # nakano v2019.1
 
 osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです。  
 ※手動調整はしていません。
-
-## ダウンロード
-
-| バージョン | 黄色カーソル | 赤色カーソル |
-|---|---|---|
-| A | [nakano v2019.1](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1.osk) | [nakano v2019.1 red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1.red.osk) |
-| B | [nakano v2019.1B](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1B.osk) | [nakano v2019.1B red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1B.red.osk) |
 
 ## バリエーション
 
@@ -51,10 +44,20 @@ osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです�
 ## 動画
 
 
+## ダウンロード
+
+| バージョン | 黄色カーソル | 赤色カーソル |
+|---|---|---|
+| A | [nakano v2019.1](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1.osk) | [nakano v2019.1 red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1.red.osk) |
+| B | [nakano v2019.1B](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1B.osk) | [nakano v2019.1B red](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2019.1B.red.osk) |
+
 # それ以前のバージョン
 
 osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです。  
 ※手動調整はしていません。
+
+## 動画
+
 
 ## ダウンロード
 
@@ -65,5 +68,3 @@ osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです�
 * [nakano v2017](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2017.osk)
 * [nakano v2016](https://github.com/fin4le-p/osu-skins/releases/download/release/nakano.v2016.osk)
 * [akaza ver3.0](https://github.com/fin4le-p/osu-skins/releases/download/release/akaza.ver3.0.osk)
-
-## 動画
