@@ -42,6 +42,8 @@ osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです�
   カーソルが黄色です。
 
 ## 動画
+https://github.com/user-attachments/assets/1986e21c-d4b4-4bf0-b9c4-f26082547421
+
 
 
 ## ダウンロード
