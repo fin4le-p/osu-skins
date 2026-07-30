@@ -57,7 +57,7 @@ osu!（Legacy）のものをosu!lazer用にコンバートしたスキンです�
 ※手動調整はしていません。
 
 ## 動画
-
+https://github.com/user-attachments/assets/ff68ab0e-3e53-41fa-89b8-3f4d36d1d5a4
 
 ## ダウンロード
 
